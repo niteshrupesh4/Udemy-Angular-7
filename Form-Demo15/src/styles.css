@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.container{
+    margin-top: 30px;
+}
+
+input.ng-invalid.ng-touched{
+    border: 2px solid red;
+}
